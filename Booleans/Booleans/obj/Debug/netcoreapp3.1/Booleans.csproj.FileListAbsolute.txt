@@ -1,0 +1,13 @@
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.exe
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.deps.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.runtimeconfig.dev.json
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\bin\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.csprojAssemblyReference.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfoInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.AssemblyInfo.cs
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.csproj.CoreCompileInputs.cache
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.dll
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.pdb
+C:\Users\D.Hercules (HISCOX)\source\repos\Booleans\Booleans\obj\Debug\netcoreapp3.1\Booleans.genruntimeconfig.cache
